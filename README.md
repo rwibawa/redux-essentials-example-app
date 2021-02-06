@@ -8,4 +8,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## 1. Setup
 ```bash
 $ git clone https://github.com/reduxjs/redux-essentials-example-app.git
+# replace the origin
+$ git remote set-url origin git@github.com:rwibawa/redux-essentials-example-app.git
 ```
